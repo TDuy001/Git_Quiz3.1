@@ -1,0 +1,1 @@
+trạng thái Staged (đã đưa vào khu vực chờ)

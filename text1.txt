@@ -2,3 +2,4 @@ thay đổi ở nhánh Release
 
 thay đổi ở nhánh Feature
 thay đổi ở nhánh Feature
+trạng thái Committed (đã commit)
